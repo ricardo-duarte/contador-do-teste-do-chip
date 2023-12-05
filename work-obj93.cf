@@ -1,0 +1,7 @@
+v 4
+file . "SyncCounter.vhd" "539525e9c929fcda631a3957b4a189021b429371" "20231205122224.939":
+  entity synccounter at 6( 194) + 0 on 17;
+  architecture behavioral of synccounter at 19( 564) + 0 on 18;
+file . "Testbench_SyncCounter.vhd" "a4202ac42aaf3e8cfd0b34358828629ae67a4cdd" "20231205122227.374":
+  entity testbench_synccounter at 7( 224) + 0 on 19;
+  architecture behavioral of testbench_synccounter at 14( 361) + 0 on 20;
